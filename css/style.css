@@ -1,0 +1,13 @@
+main{
+    display: none;
+}
+
+.petit{
+    background-color: aqua;
+    margin-bottom: 8px;
+}
+
+.grand{
+    filter : blur(3px);
+    font-size: 50px;
+}
